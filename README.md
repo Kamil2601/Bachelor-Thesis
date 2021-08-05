@@ -2,9 +2,7 @@
 ## Kamil Michalak, 299089
 
 
-To repozytorium znajduje się pod adresem: https://github.com/Kamil2601/HearthstoneAICompetition/tree/thesis
-i jest forkiem repozytorium: https://github.com/ADockhorn/HearthstoneAICompetition,
-rozbudowanym w celu napisania pracy
+To repozytorium zawiera kod mojej pracy inżynierskiej oraz kod silnika SabberStone, wzięty z repozytorium: https://github.com/ADockhorn/HearthstoneAICompetition.
 
 W katalogu `Praca_inzynierska` znajdują się 4 katalogi
 
